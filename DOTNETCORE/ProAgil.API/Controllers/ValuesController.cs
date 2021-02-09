@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using ProAgil.API.Model;
 // using ProAgil.API.Model;
 
 namespace ProAgil.API.Controllers
