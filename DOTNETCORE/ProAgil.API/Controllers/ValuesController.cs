@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using ProAgil.API.Model;
-// using ProAgil.API.Model;
+
 
 namespace ProAgil.API.Controllers
 {
@@ -16,6 +16,7 @@ namespace ProAgil.API.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<Evento>> Get()
         {
+            return new Evento[]{
             new Evento(){
 
                 eventoID = 1;
@@ -23,7 +24,7 @@ namespace ProAgil.API.Controllers
                 local = "BH";
                 lote = "1º lote";
                 qtdPessoas = "250";
-                dataEvento = DateTime.now.addDays(2).ToString("dd/MM/yyyy");
+                dataEvento = DateTime.Now.AddDays(2).ToString("dd/MM/yyyy");
             }
              new Evento(){
 
@@ -33,6 +34,7 @@ namespace ProAgil.API.Controllers
                 lote = "2º lote";
                 qtdPessoas = "350";
                 dataEvento = DateTime.now.addDays(3).ToString("dd/MM/yyyy");
+            }
             }
         }
 
