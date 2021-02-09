@@ -1,0 +1,16 @@
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\bin\Debug\net5.0\GameTOP.exe
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\bin\Debug\net5.0\GameTOP.deps.json
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\bin\Debug\net5.0\GameTOP.runtimeconfig.json
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\bin\Debug\net5.0\GameTOP.runtimeconfig.dev.json
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\bin\Debug\net5.0\GameTOP.dll
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\bin\Debug\net5.0\ref\GameTOP.dll
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\bin\Debug\net5.0\GameTOP.pdb
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.csprojAssemblyReference.cache
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.AssemblyInfoInputs.cache
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.AssemblyInfo.cs
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.csproj.CoreCompileInputs.cache
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.dll
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\ref\GameTOP.dll
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.pdb
+D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.genruntimeconfig.cache
