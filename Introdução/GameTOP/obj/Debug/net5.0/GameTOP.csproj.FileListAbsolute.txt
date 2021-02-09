@@ -14,3 +14,11 @@ D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\obj\D
 D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\ref\GameTOP.dll
 D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.pdb
 D:\Users\fabio\OneDrive\Projetos GitHub\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.genruntimeconfig.cache
+C:\Users\fcolaco\OneDrive\Cursos\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.csprojAssemblyReference.cache
+C:\Users\fcolaco\OneDrive\Cursos\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcolaco\OneDrive\Cursos\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.AssemblyInfoInputs.cache
+C:\Users\fcolaco\OneDrive\Cursos\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.AssemblyInfo.cs
+C:\Users\fcolaco\OneDrive\Cursos\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.csproj.CoreCompileInputs.cache
+C:\Users\fcolaco\OneDrive\Cursos\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.dll
+C:\Users\fcolaco\OneDrive\Cursos\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\ref\GameTOP.dll
+C:\Users\fcolaco\OneDrive\Cursos\Curso-Asp.net\Introdução\GameTOP\obj\Debug\net5.0\GameTOP.pdb

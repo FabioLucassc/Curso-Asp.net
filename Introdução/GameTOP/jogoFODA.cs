@@ -1,4 +1,5 @@
 namespace GameTOP
+
 {
     public class JogoFODA
     {
@@ -11,39 +12,39 @@ namespace GameTOP
 
         public void IniciarJogo()
         {
-            Console.Write($"{ _jogador.nome} deu um passe");
+            System.Console.Write($"{ _jogador._nome} deu um passe");
 
         }
     }
-    class jogador
-    {
-        private string _nome;
-        public int nome
-        {
-            get { return _nome; }
-            set { _nome = value; }
-        }
+    // class jogador
+    // {
+    //     private string _nome;
+    //     public int nome
+    //     {
+    //         get { return _nome; }
+    //         set { _nome = value; }
+    //     }
 
-        public jogador(string _nome)
-        {
-            _nome = nome;
+    //     public jogador(string _nome)
+    //     {
+    //         _nome = nome;
             
-        }
+    //     }
 
-        public void chuta()
-        {
-            console.Write($"{nome}está chutando");
+    //     public void chuta()
+    //     {
+    //         console.Write($"{nome}está chutando");
 
-        }
-        public void corre()
-        {
-            console.Write($"{nome}está correndo");
-        }
-        public void passe()
-        {
-            console.Write($"{nome}está passando");
-        }
+    //     }
+    //     public void corre()
+    //     {
+    //         console.Write($"{nome}está correndo");
+    //     }
+    //     public void passe()
+    //     {
+    //         console.Write($"{nome}está passando");
+    //     }
 
-    }
+    // }
 
 }

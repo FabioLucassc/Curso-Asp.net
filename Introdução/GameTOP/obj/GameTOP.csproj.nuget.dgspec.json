@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\fabio\\OneDrive\\Projetos GitHub\\Curso-Asp.net\\Introdução\\GameTOP\\GameTOP.csproj": {}
+    "C:\\Users\\fcolaco\\OneDrive\\Cursos\\Curso-Asp.net\\Introdução\\GameTOP\\GameTOP.csproj": {}
   },
   "projects": {
-    "D:\\Users\\fabio\\OneDrive\\Projetos GitHub\\Curso-Asp.net\\Introdução\\GameTOP\\GameTOP.csproj": {
+    "C:\\Users\\fcolaco\\OneDrive\\Cursos\\Curso-Asp.net\\Introdução\\GameTOP\\GameTOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\fabio\\OneDrive\\Projetos GitHub\\Curso-Asp.net\\Introdução\\GameTOP\\GameTOP.csproj",
+        "projectUniqueName": "C:\\Users\\fcolaco\\OneDrive\\Cursos\\Curso-Asp.net\\Introdução\\GameTOP\\GameTOP.csproj",
         "projectName": "GameTOP",
-        "projectPath": "D:\\Users\\fabio\\OneDrive\\Projetos GitHub\\Curso-Asp.net\\Introdução\\GameTOP\\GameTOP.csproj",
-        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\fabio\\OneDrive\\Projetos GitHub\\Curso-Asp.net\\Introdução\\GameTOP\\obj\\",
+        "projectPath": "C:\\Users\\fcolaco\\OneDrive\\Cursos\\Curso-Asp.net\\Introdução\\GameTOP\\GameTOP.csproj",
+        "packagesPath": "C:\\Users\\fcolaco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fcolaco\\OneDrive\\Cursos\\Curso-Asp.net\\Introdução\\GameTOP\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fcolaco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
